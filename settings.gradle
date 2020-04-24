@@ -1,0 +1,2 @@
+rootProject.name='ForGitLab4'
+include ':app'
